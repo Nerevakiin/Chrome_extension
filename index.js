@@ -1,4 +1,3 @@
-
 let myLeads = []
 
 const inputEl = document.getElementById("input-el")
@@ -64,6 +63,3 @@ inputBtn.addEventListener("click", function() {
     renderLeads()
 
 })
-
-
-
